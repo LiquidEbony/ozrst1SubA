@@ -15,10 +15,12 @@ Welcome to SphinxTestSubA's documentation!
 
 SUB PROJECT A
 
+:doc:`Main:index`
+:doc:`SubB:index`
+
 Indices and tables
 ==================
-* :doc:`Main:index`
-* :doc:`SubB:index`
+
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
