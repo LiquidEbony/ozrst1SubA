@@ -17,8 +17,8 @@ SUB PROJECT A
 
 Indices and tables
 ==================
+* :doc:`Main:index`
 * :doc:`SubB:index`
-
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`

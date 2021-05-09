@@ -57,7 +57,7 @@ html_static_path = ['_static']
 
 intersphinx_mapping = {
     # Links to main project.
-    'Main': ('https://ozrst1.readthedocs.io/projects/SubA/en/latest/', None),
+    'Main': ('https://ozrst1.readthedocs.io/en/latest/', None),
     # Links to sub project B.
     'SubB': ('https://ozrst1.readthedocs.io/projects/SubB/en/latest/', None),
 }
