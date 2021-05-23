@@ -10,9 +10,9 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+ import os
+ import sys
+ sys.path.insert(0, os.path.abspath('./Python'))
 
 
 # -- Project information -----------------------------------------------------
@@ -32,6 +32,8 @@ release = '0.0.0.01'
 # ones.
 extensions = [
 'sphinx.ext.intersphinx',
+'sphinx.ext.napoleon',
+'sphinx.ext.napoleon',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -61,3 +63,6 @@ intersphinx_mapping = {
     # Links to sub project B.
     'SubB': ('https://ozrst1.readthedocs.io/projects/SubB/en/latest/', None),
 }
+
+napoleon_google_docstring = True
+napoleon_numpy_docstring = False

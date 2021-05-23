@@ -11,6 +11,7 @@ Welcome to SphinxTestSubA's documentation!
    :caption: Contents:
    
    Code/Cplusplus
+   Code/Python
 
 
 SUB PROJECT A
