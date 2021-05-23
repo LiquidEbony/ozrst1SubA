@@ -13,17 +13,17 @@ Welcome to SphinxTestSubA's documentation!
    Code/Cplusplus
    Code/Python
    
-   .. automodule:: Python.example
+.. automodule:: Python.example
 
 
 SUB PROJECT A
 
-:doc:`Main:index`
-:doc:`SubB:index`
+
 
 Indices and tables
 ==================
-
+* :doc:`Main:index`
+* :doc:`SubB:index`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
