@@ -12,6 +12,8 @@ Welcome to SphinxTestSubA's documentation!
    
    Code/Cplusplus
    Code/Python
+   
+   .. automodule:: Python.example
 
 
 SUB PROJECT A
