@@ -1,4 +1,4 @@
 Python autodoc Example
 ======================
 
-.. :py:func:'example.foo'
+.. py:func:'example.foo'
