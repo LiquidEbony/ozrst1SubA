@@ -11,9 +11,14 @@ Welcome to SphinxTestSubA's documentation!
    :caption: Contents:
    
    Code/Cplusplus
+   Code/Python
+   
+.. automodule:: example
 
 
 SUB PROJECT A
+
+
 
 Indices and tables
 ==================

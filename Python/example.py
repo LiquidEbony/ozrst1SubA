@@ -1,4 +1,4 @@
-def foo(a, b)
+def foo(a, b):
     """ This function does a thing
     
     Args:
